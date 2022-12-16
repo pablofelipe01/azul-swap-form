@@ -20,7 +20,7 @@ export function SwapComponent() {
 
         : <Image 
         src='https://i.imgur.com/lKdTikw.png'
-        alt='Sports Token'>
+        alt='Azul Token'>
           </Image>
           
       }
